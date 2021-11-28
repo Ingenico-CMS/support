@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to GitHub2 Pages
 
 You can use the [editor on GitHub](https://github.com/Ingenico-CMS/support/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
